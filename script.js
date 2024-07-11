@@ -1,3 +1,4 @@
+
 let hero_image = document.getElementById('hero');
 console.log(hero_image);
 let count = 1;
@@ -10,3 +11,4 @@ setInterval(() => {
     count = 1;
   }
 }, 2000);
+
